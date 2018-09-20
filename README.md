@@ -7,4 +7,4 @@ The goal of this project is to collect data on the laundry usage of Houston Hall
 
 ![daily dryer results](results/2_week_Dryers_Daily.png)
 
-![weekly results](results/2_week_weekly.png)
+![weekly results](results/2_week_Washers_Weekly.png)
