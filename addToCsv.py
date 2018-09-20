@@ -6,8 +6,10 @@ import csv
 
 # define constants
 DATABASE_URL = 'postgres://xjmgzqbovystmz:b59b93d8d13c724a530425e1e74b603b8ce3f7a2e56c98caa0156e7c7f5ca97e@ec2-107-22-221-60.compute-1.amazonaws.com:5432/djo19060qdtmp'
-TOTAL_WASHERS = 5
+TOTAL_WASHERS = 5 #Used to be 5, switch to 4 at time stamp 1536445525
+# Back to 6 from 1536923707 to 1536928494, back to 5 after (1536929097)
 TOTAL_DRYERS = 8
+
 dayOfWeek={
     'Monday':'9/3/2018 ', #arbitrary monday chosen so that Excel does not split mondays-data into deeper chronological order
     'Tuesday':'9/4/2018 ',
